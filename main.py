@@ -173,6 +173,6 @@ def update_arc19_nft(asset_id):
 
 
 # Run Stuff Here
-#mint_arc19_nft()
+mint_arc19_nft()
 
-update_arc19_nft("778667165")
+#update_arc19_nft("778667165")
